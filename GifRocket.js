@@ -7,7 +7,7 @@ class Script {
      * @params {object} request
      */
     prepare_outgoing_request({ request }) {
-        const trigger = request.data.trigger_word.toLowerCase() + ' ';
+        const trigger = request.data.trigger_word.toLowerCase();
         const phrase = request.data.text.toLowerCase().replace(trigger, '').replace(/ /g, '+');
         let u = '';
         if(trigger.indexOf('gif') !== -1) {
