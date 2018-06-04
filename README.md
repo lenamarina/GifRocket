@@ -6,6 +6,8 @@
 |
 <b><a href="#installation">Installation</a></b>
 |
+<b><a href="#roadmap">Roadmap</a></b>
+|
 <b><a href="#team">Team</a></b>
 |
 <b><a href="#contributors">Contributors</a></b>
@@ -71,7 +73,7 @@ Now insert the complete code of the file `GifRocket.js` into this field.
 #### Save changes
 Now click on "SAVE CHANGES" and you're done.
 
-## Roadmap
+## Roadmap <a name="roadmap"></a>
 
 [Roadmap][roadmap]
 
