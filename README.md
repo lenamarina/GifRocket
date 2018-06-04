@@ -87,13 +87,21 @@ Now insert the complete code of the file `GifRocket.js` into this field.
 Now click on "SAVE CHANGES" and you're done.
 <br /><br /><br /><br />
 
+## Roadmap
+
+[Roadmap][roadmap]
+
 ## Want to contribute? <a name="contribute"></a>
 If you have any ideas on how to make this script way better, feel free to contact us. We would love to add more features. Let's improve this work together!
-<br /><br /><br /><br />
+<br /><br />
 
 ## Team <a name="team"></a>
-Manuel Bachl (<m.bachl@finndrop.de>)<br />
-Thies Schneider (<t.schneider@finndrop.de>)
+* [Manuel Bachl](https://github.com/manuelbachl) (<m.bachl@finndrop.de>)<br />
+* [Thies Schneider](https://github.com/thiesschneider) (<t.schneider@finndrop.de>)
+<br /><br /><br /><br />
+
+## Contributors <a name="contributors"></a>
+* [Bradley Hilton](https://github.com/graywolf336)
 <br /><br /><br /><br />
 
 ## Copyright & License <a name="license"></a>
@@ -107,6 +115,7 @@ Licensed under the [MIT license][license].
 [rocketchat]: https://rocket.chat/ "Rocket.Chat"
 [source]: https://git.finndrop-office.de/plugins/servlet/archive/projects/FDS/repos/gifrocket?at=refs%2Fheads%2Fmaster "Download GifRocket"
 [finndrop]: https://www.finndrop.de "Finndrop Studios"
+[roadmap]: https://github.com/FinndropStudios/GifRocket/projects/1 "Roadmap"
 [license]: license/LICENSE-MIT.txt "MIT License"
 
 <!-- images -->
